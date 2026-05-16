@@ -4,7 +4,6 @@ body {
 }
 
 /* RALEWAY */
-/* commentaire a supprimer */
 @font-face {
     font-family: 'raleway';
     src: url('./assets/fonts/Raleway-Regular.woff') format('woff');
